@@ -12,7 +12,6 @@ plugins {
     alias(libs.plugins.org.jetbrains.kotlin.plugin.parcelize)
     alias(libs.plugins.org.jetbrains.kotlin.plugin.serialization)
     alias(libs.plugins.com.google.devtools.ksp)
-    alias(libs.plugins.com.google.firebase.firebase.pref)
     alias(libs.plugins.compose.compiler)
     alias(libs.plugins.navigation.safeargs)
     id("com.mikepenz.aboutlibraries.plugin") version "14.2.1"
